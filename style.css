@@ -29,37 +29,6 @@
     width: 10px;
     text-align: center;
 }
-
-   /* .fa {
-    padding: 20px;
-    font-size: 30px;
-    width: 50px;
-    text-align: center;
-    text-decoration: none;
-    margin: 5px 2px;
-   } 
-  .fa:hover {
-    opacity: 0.7;
-} */
-
-  /* .fa-facebook {
-    background: #3B5998;
-    color: white;
-  } */
-  /* .fa-twitter {
-    background: #55ACEE;
-    color: white;
-  } */
-  /* .fa-linkedin {
-    background: #007bb5;
-    color: white;
-  } */
-  /* .fa-github {
-    background: #125688;
-    color: white;
-  } */
-  
-   
    .left-section{
        grid-column: span 1;
        background-color: #242531;
@@ -79,6 +48,7 @@
        text-align: center;
        text-transform: uppercase;
        letter-spacing: 0.02px;
+       padding: 0.8rem;
        color: white;
    }
 
